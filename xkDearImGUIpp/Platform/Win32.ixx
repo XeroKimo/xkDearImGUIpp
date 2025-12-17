@@ -3,8 +3,8 @@ module;
 #include <Windows.h>
 #include <imgui_impl_win32.h>
 
-export module xk.DearImGuipp.Platform.Win32;
-import xk.DearImGuipp;
+export module xk.ImGuipp.Platform.Win32;
+import xk.ImGuipp;
 
 namespace xk::ImGuipp
 {

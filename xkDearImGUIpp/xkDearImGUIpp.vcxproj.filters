@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="DearImGuipp.ixx">
+    <ClCompile Include="ImGuipp.ixx">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Platform\Win32.ixx">

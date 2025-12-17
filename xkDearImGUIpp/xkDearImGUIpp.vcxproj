@@ -20,7 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Backend\DX12.ixx" />
-    <ClCompile Include="DearImGuipp.ixx" />
+    <ClCompile Include="ImGuipp.ixx" />
     <ClCompile Include="Platform\Win32.ixx" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

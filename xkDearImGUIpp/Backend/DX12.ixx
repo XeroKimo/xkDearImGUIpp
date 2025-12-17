@@ -2,8 +2,8 @@ module;
 
 #include <imgui_impl_dx12.h>
 
-export module xk.DearImGuipp.Platform.DX12;
-import xk.DearImGuipp;
+export module xk.ImGuipp.Backend.DX12;
+import xk.ImGuipp;
 
 namespace xk::ImGuipp
 {

@@ -3,7 +3,7 @@ module;
 #include <imgui.h>
 #include <imgui_stdlib.h>
 
-export module xk.DearImGuipp;
+export module xk.ImGuipp;
 import std;
 
 namespace xk::ImGuipp
