@@ -1,0 +1,17 @@
+{
+  "name": "dearimguipp",
+  "version": "0.1",
+  "dependencies": [
+    {
+      "name": "imgui",
+      "features": [
+        "docking-experimental",
+        "dx11-binding",
+        "dx12-binding",
+        "win32-binding"
+      ]
+    },
+    "imguizmo"
+  ],
+  "builtin-baseline": "7213cf8135c329c37c7e2778e40774489a0583a8"
+}

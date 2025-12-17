@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="xkDearImGUIpp/xkDearImGUIpp.vcxproj" Id="5a8efe4d-10c4-428e-a7ff-b862a1bdb7d3" />
+</Solution>
